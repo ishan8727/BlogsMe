@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+}
+
+.post{
+    background-color: papayawhip;
+    border: 5px  solid rosybrown;
+   
+    width: 500px;
+}
+
+.user{
+    font-style: italic;
+}
